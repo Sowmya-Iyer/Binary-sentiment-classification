@@ -1,5 +1,5 @@
 # Binary-sentiment-classification
-Implemented Perceptron and Logistic Regression and compared their performance on the sentiment classification task
+Implemented Perceptron and Logistic Regression from scratch using Python and compared their performance on the sentiment classification task
 
 ### Structure:
 - Execution.py
